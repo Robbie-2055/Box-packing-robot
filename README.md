@@ -68,5 +68,7 @@ This project involves the development of a standalone robotic arm prototype for 
 - Implement inverse kinematics
 - Implement advanced error handling and diagnostics.  
 - Integrate a GUI for configuration and monitoring.  
-- Explore machine learning-based task optimization.  
+- Explore machine learning-based task optimization.
+
+  
 
