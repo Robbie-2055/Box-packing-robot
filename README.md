@@ -12,7 +12,10 @@ https://github.com/user-attachments/assets/8d1d0be6-dc90-4764-b93e-bd446e49d4cc
 ## Controller
 
 
-Uploading Breadboard to Stripboard.mp4…
+
+
+https://github.com/user-attachments/assets/31ab5f86-5a8b-46fd-a1bb-c6ed7725d4f8
+
 
 
 
